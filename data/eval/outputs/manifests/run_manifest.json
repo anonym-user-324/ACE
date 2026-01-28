@@ -1,0 +1,8 @@
+{
+  "timestamp_utc": "2026-01-25T05:24:51.923225Z",
+  "dataset_id": "anon-user-423/ACE",
+  "dataset_config": "events",
+  "embed_model": "intfloat/e5-large-v2",
+  "seed": 13,
+  "python": "3.11.14"
+}

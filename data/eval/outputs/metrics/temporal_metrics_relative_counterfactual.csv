@@ -1,0 +1,2 @@
+win_acc,cite_r@3,episode_hit,med_abs_err_hours,n_queries,cite_p@1,cite_p@3,retriever,suite
+0.16,0.02,0.02,716.4843940277894,50,0.02,0.006666666666666666,hybrid,relative_counterfactual

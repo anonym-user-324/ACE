@@ -1,0 +1,652 @@
+[
+  {
+    "query": "40 days ago, what fix was suggested for starting a microphone-using foreground service while the app is backgrounded on Android 14?",
+    "expected_events": [
+      "ace-79633866"
+    ],
+    "relative": {
+      "type": "days_ago",
+      "value": 40,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-05-22T13:33:24.547000+00:00"
+  },
+  {
+    "query": "2 weeks ago, what did we conclude about GitHub Actions still reporting artifact storage exhaustion even after cleanup in June 2025?",
+    "expected_events": [
+      "ace-79668405"
+    ],
+    "relative": {
+      "type": "weeks_ago",
+      "value": 2,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-06-17T02:21:46.120000+00:00"
+  },
+  {
+    "query": "6 months ago, how can I have Git overwrite (not merge) all changed files from another branch?",
+    "expected_events": [
+      "ace-79386139"
+    ],
+    "relative": {
+      "type": "months_ago",
+      "value": 6,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-01-25T03:42:57.653000+00:00"
+  },
+  {
+    "query": "147 days ago, what was the issue with jQuery Validation not working properly with a Kendo DropDownList?",
+    "expected_events": [
+      "ace-79412213"
+    ],
+    "relative": {
+      "type": "days_ago",
+      "value": 147,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-02-04T15:31:54.620000+00:00"
+  },
+  {
+    "query": "25 weeks ago, what guidance was provided for Strapi 'error: Couldn't send test email: Missing credentials for \"PLAIN\"'?",
+    "expected_events": [
+      "ace-79339851"
+    ],
+    "relative": {
+      "type": "weeks_ago",
+      "value": 25,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-01-08T15:50:20.017000+00:00"
+  },
+  {
+    "query": "3 months ago, what was the question about displaying an additional line item row when a WooCommerce Block Checkout item has quantity two in April 2025?",
+    "expected_events": [
+      "ace-79551248"
+    ],
+    "relative": {
+      "type": "months_ago",
+      "value": 3,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-04-02T17:48:54.297000+00:00"
+  },
+  {
+    "query": "83 days ago, what response was given for an integration test failing when the UI displays the pinCodeTextField screen?",
+    "expected_events": [
+      "ace-79565401"
+    ],
+    "relative": {
+      "type": "days_ago",
+      "value": 83,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-04-09T22:00:29.053000+00:00"
+  },
+  {
+    "query": "19 weeks ago, what fix was suggested for a MongoDB boolean value not updating correctly?",
+    "expected_events": [
+      "ace-79447524"
+    ],
+    "relative": {
+      "type": "weeks_ago",
+      "value": 19,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-02-18T08:08:35.533000+00:00"
+  },
+  {
+    "query": "1 month ago, what problem came up about How to override CTRL+S, CTRL+N, CTRL+T, CTRL+U key events using hotkeys.js?",
+    "expected_events": [
+      "ace-79682801"
+    ],
+    "relative": {
+      "type": "months_ago",
+      "value": 1,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-06-28T07:15:02.927000+00:00"
+  },
+  {
+    "query": "137 days ago, what was the answer to: Changing width and position of my div element using JavaScript and a transition style becomes very laggy.?",
+    "expected_events": [
+      "ace-79438195"
+    ],
+    "relative": {
+      "type": "days_ago",
+      "value": 137,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-02-14T02:31:48.770000+00:00"
+  },
+  {
+    "query": "16 weeks ago, what issue was reported in March 2025 about a Spotify Web Playback SDK error 404 occurring during playback initialization, and what was the key response?",
+    "expected_events": [
+      "ace-79495393"
+    ],
+    "relative": {
+      "type": "weeks_ago",
+      "value": 16,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-03-09T04:09:30.540000+00:00"
+  },
+  {
+    "query": "3 months ago, what fix was suggested for Why does xcb_create_window() ignore the x, y, and border_width parameters?",
+    "expected_events": [
+      "ace-79579481"
+    ],
+    "relative": {
+      "type": "months_ago",
+      "value": 3,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-04-17T14:25:07.970000+00:00"
+  },
+  {
+    "query": "149 days ago, what response was given for confusion around how Python\u2019s descriptor protocol applies to wrapper-descriptor objects?",
+    "expected_events": [
+      "ace-79407071"
+    ],
+    "relative": {
+      "type": "days_ago",
+      "value": 149,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-02-02T18:12:40.760000+00:00"
+  },
+  {
+    "query": "16 weeks ago, summarize the situation with Authlib Oauth2 Azure ssl error \"The request body must contain the following parameter: 'client_id'\".",
+    "expected_events": [
+      "ace-79506636"
+    ],
+    "relative": {
+      "type": "weeks_ago",
+      "value": 16,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-03-13T13:42:52.507000+00:00"
+  },
+  {
+    "query": "4 months ago, how do you assign a variable to an output in Java?",
+    "expected_events": [
+      "ace-79482464"
+    ],
+    "relative": {
+      "type": "months_ago",
+      "value": 4,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-03-04T01:10:19.187000+00:00"
+  },
+  {
+    "query": "26 days ago, what did we conclude about ModuleNotFoundError: No module named 'python_calamine' in June 2025?",
+    "expected_events": [
+      "ace-79654130"
+    ],
+    "relative": {
+      "type": "days_ago",
+      "value": 26,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-06-05T09:10:22.730000+00:00"
+  },
+  {
+    "query": "25 weeks ago, summarize the advice given about preserving JSON deserialization behavior when wrapping a List<> field inside a utility class around January 2025.",
+    "expected_events": [
+      "ace-79334081"
+    ],
+    "relative": {
+      "type": "weeks_ago",
+      "value": 25,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-01-06T19:11:12.257000+00:00"
+  },
+  {
+    "query": "4 months ago, what fix was suggested for How to use C++ libraries installed with Homebrew within Cmake?",
+    "expected_events": [
+      "ace-79535032"
+    ],
+    "relative": {
+      "type": "months_ago",
+      "value": 4,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-03-25T23:01:35.500000+00:00"
+  },
+  {
+    "query": "84 days ago, how was Facebook Ads API: Ad Account Blocked (error [PHONE]) \u2014 \u201cCertification Required\u201d but No Way to Detect via API resolved?",
+    "expected_events": [
+      "ace-79561699"
+    ],
+    "relative": {
+      "type": "days_ago",
+      "value": 84,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-04-08T09:48:01.833000+00:00"
+  },
+  {
+    "query": "6 weeks ago, what issue was reported in May 2025 about using a graph convolutional neural network (GCNN) to predict appropriate patterns to solve a problem, and what was the key response?",
+    "expected_events": [
+      "ace-79626389"
+    ],
+    "relative": {
+      "type": "weeks_ago",
+      "value": 6,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-05-17T09:40:45.950000+00:00"
+  },
+  {
+    "query": "4 months ago, what fix was suggested for Data from Last 7 Days Not Showing Despite Being Available in Google Sheets?",
+    "expected_events": [
+      "ace-79530253"
+    ],
+    "relative": {
+      "type": "months_ago",
+      "value": 4,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-03-24T05:56:00.083000+00:00"
+  },
+  {
+    "query": "50 days ago, what was the fix for \u201cFailed to call into JavaScript module method HMRClient.setup()\u201d after scanning the QR code?",
+    "expected_events": [
+      "ace-79618448"
+    ],
+    "relative": {
+      "type": "days_ago",
+      "value": 50,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-05-12T18:20:59.347000+00:00"
+  },
+  {
+    "query": "22 weeks ago, how was Python 3.9.20, PyTorch 2.5.0 (MacOS): Setting Seed Does Not Produce Deterministic Results resolved?",
+    "expected_events": [
+      "ace-79395350"
+    ],
+    "relative": {
+      "type": "weeks_ago",
+      "value": 22,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-01-28T22:42:22.980000+00:00"
+  },
+  {
+    "query": "6 months ago, how do you select all files with a certain postfix (e.g., *.gz) across all subdirectories?",
+    "expected_events": [
+      "ace-79341568"
+    ],
+    "relative": {
+      "type": "months_ago",
+      "value": 6,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-01-09T06:33:43.540000+00:00"
+  },
+  {
+    "query": "158 days ago, what did we conclude about supporting multiple vacation bookings per employee within a calendar system in January 2025?",
+    "expected_events": [
+      "ace-79385885"
+    ],
+    "relative": {
+      "type": "days_ago",
+      "value": 158,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-01-24T23:24:30.480000+00:00"
+  },
+  {
+    "query": "13 weeks ago, what problem came up about How to make height transition for flatpick?",
+    "expected_events": [
+      "ace-79555460"
+    ],
+    "relative": {
+      "type": "weeks_ago",
+      "value": 13,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-04-04T13:31:50.737000+00:00"
+  },
+  {
+    "query": "6 months ago, what was the issue: Pydantic BaseModel object has no attribute `items`?",
+    "expected_events": [
+      "ace-79390804"
+    ],
+    "relative": {
+      "type": "months_ago",
+      "value": 6,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-01-27T12:36:25.550000+00:00"
+  },
+  {
+    "query": "118 days ago, how was sorting objects by a date stored as a string followed by a secondary field resolved?",
+    "expected_events": [
+      "ace-79485236"
+    ],
+    "relative": {
+      "type": "days_ago",
+      "value": 118,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-03-05T01:18:12.937000+00:00"
+  },
+  {
+    "query": "18 weeks ago, how do you get a file list when comparing commits in GitHub (files field empty)?",
+    "expected_events": [
+      "ace-79464688"
+    ],
+    "relative": {
+      "type": "weeks_ago",
+      "value": 18,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-02-24T20:08:26.060000+00:00"
+  },
+  {
+    "query": "4 months ago, what problem came up about How to get Ledger report of full Financial Year in Tally XML request?",
+    "expected_events": [
+      "ace-79546142"
+    ],
+    "relative": {
+      "type": "months_ago",
+      "value": 4,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-03-31T11:43:03.883000+00:00"
+  },
+  {
+    "query": "13 days ago, what does NWPathMonitor mean by an \u201cexpensive\u201d network path?",
+    "expected_events": [
+      "ace-79670087"
+    ],
+    "relative": {
+      "type": "days_ago",
+      "value": 13,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-06-18T05:59:07.427000+00:00"
+  },
+  {
+    "query": "19 weeks ago, what issue was reported in February 2025 about trouble estimating design automation token usage, and what was the key response?",
+    "expected_events": [
+      "ace-79448062"
+    ],
+    "relative": {
+      "type": "weeks_ago",
+      "value": 19,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-02-18T11:20:39.593000+00:00"
+  },
+  {
+    "query": "6 months ago, what was the answer to: Expo 52 Version Dom Components Props Not Work i try to new dom components at Expo 52 in this article?",
+    "expected_events": [
+      "ace-79381816"
+    ],
+    "relative": {
+      "type": "months_ago",
+      "value": 6,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-01-23T16:13:24.630000+00:00"
+  },
+  {
+    "query": "179 days ago, what was the issue with Fail: The package hadoop-hdfs-dfsrouter is not supported by this version of the stack-select tool?",
+    "expected_events": [
+      "ace-79325651"
+    ],
+    "relative": {
+      "type": "days_ago",
+      "value": 179,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-01-03T06:25:01.860000+00:00"
+  },
+  {
+    "query": "10 weeks ago, summarize the advice given about why CPU efficiency cores exhibit lower core-to-core latency than performance cores around April 2025.",
+    "expected_events": [
+      "ace-79581985"
+    ],
+    "relative": {
+      "type": "weeks_ago",
+      "value": 10,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-04-19T03:11:32.350000+00:00"
+  },
+  {
+    "query": "4 months ago, what issue was reported in March 2025 about setting default iterations and chains globally when fitting Bayesian models with brms in R, and what was the key response?",
+    "expected_events": [
+      "ace-79508496"
+    ],
+    "relative": {
+      "type": "months_ago",
+      "value": 4,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-03-14T08:36:22.183000+00:00"
+  },
+  {
+    "query": "123 days ago, how was How to schedule a task using Snowflake resolved?",
+    "expected_events": [
+      "ace-79474749"
+    ],
+    "relative": {
+      "type": "days_ago",
+      "value": 123,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-02-28T07:06:02.737000+00:00"
+  },
+  {
+    "query": "1 week ago, how do you compile Android.bp (bp files) for an Android package?",
+    "expected_events": [
+      "ace-79681261"
+    ],
+    "relative": {
+      "type": "weeks_ago",
+      "value": 1,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-06-26T23:20:04.607000+00:00"
+  },
+  {
+    "query": "2 months ago, summarize the situation with resolving static typing issues in Python without using casts or ignored type checks.",
+    "expected_events": [
+      "ace-79626900"
+    ],
+    "relative": {
+      "type": "months_ago",
+      "value": 2,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-05-17T18:46:44.133000+00:00"
+  },
+  {
+    "query": "7 days ago, summarize the advice given about whether Facebook Webhooks can notify follower-count changes for a Page around June 2025.",
+    "expected_events": [
+      "ace-79677520"
+    ],
+    "relative": {
+      "type": "days_ago",
+      "value": 7,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-06-24T11:50:35.487000+00:00"
+  },
+  {
+    "query": "22 weeks ago, how SO_KEEPALIVE works in socket programming I'm a newbie to networks, please guide me for the following. As per my understanding, by default in the OS Level...",
+    "expected_events": [
+      "ace-79396814"
+    ],
+    "relative": {
+      "type": "weeks_ago",
+      "value": 22,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-01-29T12:59:38.597000+00:00"
+  },
+  {
+    "query": "6 months ago, can we set theme for android Overflow menu? How can I increase the rounded corners of the Android overflow menu to match the material design style?",
+    "expected_events": [
+      "ace-79392759"
+    ],
+    "relative": {
+      "type": "months_ago",
+      "value": 6,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-01-28T04:41:40.727000+00:00"
+  },
+  {
+    "query": "171 days ago, why does my repeater in Wix Code only load the first related video instead of all related videos?",
+    "expected_events": [
+      "ace-79347487"
+    ],
+    "relative": {
+      "type": "days_ago",
+      "value": 171,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-01-11T03:32:09.190000+00:00"
+  },
+  {
+    "query": "25 weeks ago, angular lib with route Using Angular 18, I have a workspace and within it a lib-one. I want to know how I can apply routes within lib-one? Is it possible? Wi...",
+    "expected_events": [
+      "ace-79328239"
+    ],
+    "relative": {
+      "type": "weeks_ago",
+      "value": 25,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-01-04T04:26:35.070000+00:00"
+  },
+  {
+    "query": "6 months ago, puppeteer-core works fine locally but fails when deployed to vercel",
+    "expected_events": [
+      "ace-79388053"
+    ],
+    "relative": {
+      "type": "months_ago",
+      "value": 6,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-01-26T06:13:10.907000+00:00"
+  },
+  {
+    "query": "158 days ago, powerShell multiline regex is matching on regex101.com AND regexr.com, but not in Powershell code",
+    "expected_events": [
+      "ace-79385377"
+    ],
+    "relative": {
+      "type": "days_ago",
+      "value": 158,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-01-24T19:04:21.877000+00:00"
+  },
+  {
+    "query": "26 weeks ago, what does hasChanged() result in true and the original and new values are the same in CI4?",
+    "expected_events": [
+      "ace-79322873"
+    ],
+    "relative": {
+      "type": "weeks_ago",
+      "value": 26,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-01-02T05:49:42.363000+00:00"
+  },
+  {
+    "query": "6 months ago, routing in Ionic React: Transition animation not working under specific conditions",
+    "expected_events": [
+      "ace-79372705"
+    ],
+    "relative": {
+      "type": "months_ago",
+      "value": 6,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-01-20T21:33:54.090000+00:00"
+  },
+  {
+    "query": "133 days ago, trying to start oracle forms from a jnlp but it can't find the frmall.jar file.",
+    "expected_events": [
+      "ace-79449428"
+    ],
+    "relative": {
+      "type": "days_ago",
+      "value": 133,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-02-18T19:44:47.863000+00:00"
+  },
+  {
+    "query": "20 weeks ago, what is 'VM overhead' in spark docs?",
+    "expected_events": [
+      "ace-79438214"
+    ],
+    "relative": {
+      "type": "weeks_ago",
+      "value": 20,
+      "reference_iso": "2025-07-01T00:00:00+00:00"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-02-14T02:36:20.550000+00:00"
+  }
+]

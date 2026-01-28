@@ -1,0 +1,75 @@
+ACE Minimal Storage System
+
+Quick start (notebook + metrics, recommended)
+
+Common steps
+1) Create a clean conda env and install FAISS (conda-forge only):
+   conda create -n ace -c conda-forge python=3.11 faiss-cpu
+   conda activate ace
+2) Install Python deps (agent + metrics):
+   python -m pip install -r requirements.txt
+
+   # Torch is platform-specific. Use the PyTorch selector to get the exact
+   # install command for your OS + CPU/GPU setup:
+   # https://pytorch.org/get-started/locally/
+
+3) Register the kernel so VS Code/Jupyter can see it:
+   python -m ipykernel install --user --name ace --display-name "ACE"
+4) Open the notebook and select the ACE kernel:
+   - ACE.ipynb (agent) or data/eval/notebooks/ACE_eval_metrics.ipynb (metrics)
+   - VS Code: click the kernel name (top-right) -> ACE
+   - Restart kernel, then Run All
+
+   - If you have issues with PyTorch reinstall it like so(inside the virtual env):
+   python -m pip uninstall -y torch torchvision torchaudio
+   conda install -y -c conda-forge pytorch torchvision torchaudio
+
+   
+5) Ask questions in the loop. Type exit to quit.
+
+
+Notes
+
+- To remove a cached model: 
+      rm -rf ~/.cache/huggingface/hub/models--Qwen--Qwen2.5-3B-Instruct
+         (or to remove all models)
+      rm -rf ~/.cache/huggingface/hub/
+
+
+Quick start (script)
+1) Activate the env and run:
+   conda activate ace_test
+   # If dataset already present with episodes:
+   python scripts/run_agent.py --model Qwen/Qwen2.5-3B-Instruct
+   # To download dataset as well:
+   python scripts/run_agent.py --model Qwen/Qwen2.5-3B-Instruct --use-ace-dataset --ace-dataset anon-user-423/ACE --ace-dataset-config events
+   # To force rebuild the embeddings use this argument: --rebuild-dataset-embeddings
+
+
+What gets stored
+- Events: data/events/custom_events.jsonl
+- Episodes: data/episodes/
+
+Temporal query formats
+- "What did we discuss yesterday?"
+- "What happened last week?"
+- "What did I do 3 weeks ago?"
+- "In Jan 2025, what did I ask about SQLFluff?"
+- "On 2025-03-31, what did we say about SwiftUI sheet resizing?"
+- "From June 1, 2025 to June 15, 2025, what was discussed?"
+
+Overrides
+- Timezone: set ACE_USER_TZ (e.g., America/New_York)
+- Storage dir: set ACE_STORAGE_DIR
+- Model/device: set ACE_MODEL_NAME / ACE_DEVICE (notebook) or use CLI args
+- Index refresh: set ACE_REFRESH_EVERY (notebook) or --refresh-every N (CLI)
+- Force model re-download: set ACE_FORCE_DOWNLOAD=1 (optionally set ACE_HF_CACHE_DIR)
+
+Notes
+- The repo starts empty; your first interaction creates the first event.
+- Retrieval index is rebuilt every 3 queries by default (ACE_REFRESH_EVERY).
+- Metrics notebook downloads the ACE dataset and writes events/embeddings into data/.
+- Optional synthetic temporal dataset for reviewer testing:
+  data/Demo_Dataset/faux_events.jsonl provides ~6 months of timestamped events so
+  temporal queries (e.g., "In Oct 2025...") have coverage even without live history.
+  If you want episodes for this file, run roll-up in ACE.ipynb after enabling it.

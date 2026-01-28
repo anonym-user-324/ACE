@@ -1,0 +1,252 @@
+[
+  {
+    "query": "On 2025-05-22, what fix was suggested for starting a microphone-using foreground service while the app is backgrounded on Android 14?",
+    "type": "single",
+    "event_id": "ace-79633866"
+  },
+  {
+    "query": "What did we conclude about GitHub Actions still reporting artifact storage exhaustion even after cleanup in June 2025?",
+    "type": "single",
+    "event_id": "ace-79668405"
+  },
+  {
+    "query": "On 2025-01-25, how can I have Git overwrite (not merge) all changed files from another branch?",
+    "type": "single",
+    "event_id": "ace-79386139"
+  },
+  {
+    "query": "In February 2025, what was the issue with jQuery Validation that we faced?",
+    "type": "base",
+    "event_id": "ace-79412213"
+  },
+  {
+    "query": "In February 2025, what was the Access violation invoke Certificates_ICertificateQuery.get_Thumbprint I faced?",
+    "type": "single",
+    "event_id": "ace-79422416"
+  },
+  {
+    "query": "In January 2025, what guidance was provided for Strapi 'error: Couldn't send test email: Missing credentials for \"PLAIN\"'?",
+    "type": "single",
+    "event_id": "ace-79339851"
+  },
+  {
+    "query": "What was that question about the WooCommerce Block Checkout in April 2025?",
+    "type": "base",
+    "event_id": "ace-79551248"
+  },
+  {
+    "query": "In March 2025, what did we do for java.lang.UnsatisfiedLinkError?",
+    "type": "single",
+    "event_id": "ace-79476960"
+  },
+  {
+    "query": "On 2025-04-09, what response was given for an integration test failing when the UI displays the pinCodeTextField screen?",
+    "type": "single",
+    "event_id": "ace-79565401"
+  },
+  {
+    "query": "On 2025-02-18, what fix was suggested for a MongoDB boolean value not updating correctly?",
+    "type": "single",
+    "event_id": "ace-79447524"
+  },
+  {
+    "query": "Around June 2025, how did we solve: How to override CTRL+S, CTRL+N, CTRL+T, CTRL+U key events using hotkeys.js?",
+    "type": "base",
+    "event_id": "ace-79682801"
+  },
+  {
+    "query": "In March 2025, to update multiple items by id using tanstack query, what was the exact issue and solution?",
+    "type": "single",
+    "event_id": "ace-79532301"
+  },
+  {
+    "query": "In February 2025, what was the answer to: changing width and position of my div element using JavaScript and a transition style becomes very laggy.?",
+    "type": "single",
+    "event_id": "ace-79438195"
+  },
+  {
+    "query": "What solution did we arrive in March 2025 about a Spotify Web Playback SDK error 404?",
+    "type": "single",
+    "event_id": "ace-79495393"
+  },
+  {
+    "query": "On 2025-04-17, what fix was suggested for Why does xcb_create_window() ignore the x, y, and border_width parameters?",
+    "type": "single",
+    "event_id": "ace-79579481"
+  },
+  {
+    "query": "On 2025-02-02, what solution was proposed for confusion around how Python\u2019s descriptor protocol applies to wrapper-descriptor objects?",
+    "type": "single",
+    "event_id": "ace-79407071"
+  },
+  {
+    "query": "In March 2025, summarize the situation with Authlib Oauth2 Azure ssl error",
+    "type": "base",
+    "event_id": "ace-79506636"
+  },
+  {
+    "query": "In March 2025, Calculate the gradient with respect to attention but also the FFN layers for a pre-trained LLMs, what was the issue and proposed solution?",
+    "type": "single",
+    "event_id": "ace-79501263"
+  },
+  {
+    "query": "In March 2025, how did we assign a variable to an output in Java?",
+    "type": "single",
+    "event_id": "ace-79482464"
+  },
+  {
+    "query": "What did we conclude about ModuleNotFoundError: No module named 'python_calamine' in June 2025?",
+    "type": "single",
+    "event_id": "ace-79654130"
+  },
+  {
+    "query": "Summarize the advice given about preserving JSON deserialization behavior when wrapping a List<> field inside a utility class around January 2025.",
+    "type": "single",
+    "event_id": "ace-79334081"
+  },
+  {
+    "query": "On 2025-03-25, what fix was suggested for How to use C++ libraries installed with Homebrew within Cmake?",
+    "type": "single",
+    "event_id": "ace-79535032"
+  },
+  {
+    "query": "In April 2025, how was Facebook Ads API: Ad Account Blocked, No Way to Detect via API resolved?",
+    "type": "single",
+    "event_id": "ace-79561699"
+  },
+  {
+    "query": "What issue was reported in May 2025 about using a graph convolutional neural network (GCNN) to predict appropriate patterns to solve a problem, and what was the key response?",
+    "type": "single",
+    "event_id": "ace-79626389"
+  },
+  {
+    "query": "On 2025-03-24, what fix was suggested for Data from Last 7 Days Not Showing Despite Being Available in Google Sheets?",
+    "type": "single",
+    "event_id": "ace-79530253"
+  },
+  {
+    "query": "In May 2025, what was the fix for \u201cFailed to call into JavaScript module method HMRClient.setup()\u201d after scanning the QR code?",
+    "type": "single",
+    "event_id": "ace-79618448"
+  },
+  {
+    "query": "In January 2025, how was Python 3.9.20, PyTorch 2.5.0 (MacOS): Setting Seed Does Not Produce Deterministic Results resolved?",
+    "type": "single",
+    "event_id": "ace-79395350"
+  },
+  {
+    "query": "In January 2025, how do you select all files with a certain postfix (e.g., *.gz) across all subdirectories?",
+    "type": "single",
+    "event_id": "ace-79341568"
+  },
+  {
+    "query": "What did we conclude about supporting multiple vacation bookings per employee within a calendar system in January 2025?",
+    "type": "single",
+    "event_id": "ace-79385885"
+  },
+  {
+    "query": "Around April 2025, what problem came up about How to make height transition for flatpick?",
+    "type": "base",
+    "event_id": "ace-79555460"
+  },
+  {
+    "query": "In March 2025, How do I get all transactions that have been recurring on the same date in the past few months?",
+    "type": "single",
+    "event_id": "ace-79538888"
+  },
+  {
+    "query": "In January 2025, what was the issue: Pydantic BaseModel object has no attribute `items`?",
+    "type": "base",
+    "event_id": "ace-79390804"
+  },
+  {
+    "query": "In April 2025, How to access the DOM of a cross-origin iframe?",
+    "type": "single",
+    "event_id": "ace-79596834"
+  },
+  {
+    "query": "In March 2025, how was sorting objects by a date stored as a string followed by a secondary field resolved?",
+    "type": "single",
+    "event_id": "ace-79485236"
+  },
+  {
+    "query": "In February 2025, how do you get a file list when comparing commits in GitHub (files field empty)?",
+    "type": "base",
+    "event_id": "ace-79464688"
+  },
+  {
+    "query": "In January 2025, I got the error access denied for user followed by the ip of the flask container (MySQLdb._exceptions.OperationalError) (1045, \"Access denied for user 'alex'@'[IP]' (using password: YES)\"), what was the solution suggested for this?",
+    "type": "single",
+    "event_id": "ace-79332084"
+  },
+  {
+    "query": "Around March 2025, what problem came up about How to get Ledger report of full Financial Year in Tally XML request?",
+    "type": "base",
+    "event_id": "ace-79546142"
+  },
+  {
+    "query": "In January 2025, what was the issue with Group of conditions in IF THEN statements in VBA?",
+    "type": "single",
+    "event_id": "ace-79332615"
+  },
+  {
+    "query": "In June 2025, what does NWPathMonitor mean by an \u201cexpensive\u201d network path?",
+    "type": "single",
+    "event_id": "ace-79670087"
+  },
+  {
+    "query": "What issue was reported in February 2025 about trouble estimating design automation token usage, and what was the key response?",
+    "type": "single",
+    "event_id": "ace-79448062"
+  },
+  {
+    "query": "In January 2025, what was the answer to: Expo 52 Version Dom Components Props Not Working?",
+    "type": "single",
+    "event_id": "ace-79381816"
+  },
+  {
+    "query": "In January 2025, what was the issue with Fail: The package hadoop-hdfs-dfsrouter is not supported by this version of the stack-select tool?",
+    "type": "base",
+    "event_id": "ace-79325651"
+  },
+  {
+    "query": "In February 2025, how did I determine which clickable image on my sheet is pressed?",
+    "type": "single",
+    "event_id": "ace-79413525"
+  },
+  {
+    "query": "Summarize the advice given about why CPU efficiency cores exhibit lower core-to-core latency than performance cores around April 2025.",
+    "type": "single",
+    "event_id": "ace-79581985"
+  },
+  {
+    "query": "What issue was reported in March 2025 about setting default iterations and chains globally when fitting Bayesian models with brms in R, and what was the key response?",
+    "type": "single",
+    "event_id": "ace-79508496"
+  },
+  {
+    "query": "In February 2025, how was scheduling a task using Snowflake resolved?",
+    "type": "single",
+    "event_id": "ace-79474749"
+  },
+  {
+    "query": "On 2025-06-26, how did we compile Android.bp (bp files) for an Android package?",
+    "type": "single",
+    "event_id": "ace-79681261"
+  },
+  {
+    "query": "In May 2025, summarize the situation with resolving static typing issues in Python without using casts or ignored type checks.",
+    "type": "base",
+    "event_id": "ace-79626900"
+  },
+  {
+    "query": "In January 2025, What options do you have if you want vector animations that you can interact with in code with PyQt / PySide?",
+    "type": "single",
+    "event_id": "ace-79353584"
+  },
+  {
+    "query": "Summarize the advice given about whether Facebook Webhooks can notify follower-count changes for a Page around June 2025.",
+    "type": "single",
+    "event_id": "ace-79677520"
+  }
+]

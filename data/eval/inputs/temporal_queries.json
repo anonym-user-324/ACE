@@ -1,0 +1,652 @@
+[
+  {
+    "query": "On 2025-05-22, what fix was suggested for starting a microphone-using foreground service while the app is backgrounded on Android 14?",
+    "expected_events": [
+      "ace-79633866"
+    ],
+    "window": {
+      "start_iso": "2025-05-22T00:00:00+00:00",
+      "end_iso": "2025-05-22T23:59:59+00:00",
+      "label": "date:2025-05-22"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-05-22T13:33:24.547000+00:00"
+  },
+  {
+    "query": "What did we conclude about GitHub Actions still reporting artifact storage exhaustion even after cleanup in June 2025?",
+    "expected_events": [
+      "ace-79668405"
+    ],
+    "window": {
+      "start_iso": "2025-06-01T00:00:00+00:00",
+      "end_iso": "2025-06-30T23:59:59+00:00",
+      "label": "month:2025-06"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-06-17T02:21:46.120000+00:00"
+  },
+  {
+    "query": "On 2025-01-25, how can I have Git overwrite (not merge) all changed files from another branch?",
+    "expected_events": [
+      "ace-79386139"
+    ],
+    "window": {
+      "start_iso": "2025-01-25T00:00:00+00:00",
+      "end_iso": "2025-01-25T23:59:59+00:00",
+      "label": "date:2025-01-25"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-01-25T03:42:57.653000+00:00"
+  },
+  {
+    "query": "In February 2025, what was the issue with jQuery Validation not working properly with a Kendo DropDownList?",
+    "expected_events": [
+      "ace-79412213"
+    ],
+    "window": {
+      "start_iso": "2025-02-01T00:00:00+00:00",
+      "end_iso": "2025-02-28T23:59:59+00:00",
+      "label": "month:2025-02"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-02-04T15:31:54.620000+00:00"
+  },
+  {
+    "query": "In January 2025, what guidance was provided for Strapi 'error: Couldn't send test email: Missing credentials for \"PLAIN\"'?",
+    "expected_events": [
+      "ace-79339851"
+    ],
+    "window": {
+      "start_iso": "2025-01-01T00:00:00+00:00",
+      "end_iso": "2025-01-31T23:59:59+00:00",
+      "label": "month:2025-01"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-01-08T15:50:20.017000+00:00"
+  },
+  {
+    "query": "What was the question about displaying an additional line item row when a WooCommerce Block Checkout item has quantity two in April 2025?",
+    "expected_events": [
+      "ace-79551248"
+    ],
+    "window": {
+      "start_iso": "2025-04-01T00:00:00+00:00",
+      "end_iso": "2025-04-30T23:59:59+00:00",
+      "label": "month:2025-04"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-04-02T17:48:54.297000+00:00"
+  },
+  {
+    "query": "On 2025-04-09, what response was given for an integration test failing when the UI displays the pinCodeTextField screen?",
+    "expected_events": [
+      "ace-79565401"
+    ],
+    "window": {
+      "start_iso": "2025-04-09T00:00:00+00:00",
+      "end_iso": "2025-04-09T23:59:59+00:00",
+      "label": "date:2025-04-09"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-04-09T22:00:29.053000+00:00"
+  },
+  {
+    "query": "On 2025-02-18, what fix was suggested for a MongoDB boolean value not updating correctly?",
+    "expected_events": [
+      "ace-79447524"
+    ],
+    "window": {
+      "start_iso": "2025-02-18T00:00:00+00:00",
+      "end_iso": "2025-02-18T23:59:59+00:00",
+      "label": "date:2025-02-18"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-02-18T08:08:35.533000+00:00"
+  },
+  {
+    "query": "Around June 2025, what problem came up about How to override CTRL+S, CTRL+N, CTRL+T, CTRL+U key events using hotkeys.js?",
+    "expected_events": [
+      "ace-79682801"
+    ],
+    "window": {
+      "start_iso": "2025-06-01T00:00:00+00:00",
+      "end_iso": "2025-06-30T23:59:59+00:00",
+      "label": "month:2025-06"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-06-28T07:15:02.927000+00:00"
+  },
+  {
+    "query": "In February 2025, what was the answer to: Changing width and position of my div element using JavaScript and a transition style becomes very laggy.?",
+    "expected_events": [
+      "ace-79438195"
+    ],
+    "window": {
+      "start_iso": "2025-02-01T00:00:00+00:00",
+      "end_iso": "2025-02-28T23:59:59+00:00",
+      "label": "month:2025-02"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-02-14T02:31:48.770000+00:00"
+  },
+  {
+    "query": "What issue was reported in March 2025 about a Spotify Web Playback SDK error 404 occurring during playback initialization, and what was the key response?",
+    "expected_events": [
+      "ace-79495393"
+    ],
+    "window": {
+      "start_iso": "2025-03-01T00:00:00+00:00",
+      "end_iso": "2025-03-31T23:59:59+00:00",
+      "label": "month:2025-03"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-03-09T04:09:30.540000+00:00"
+  },
+  {
+    "query": "On 2025-04-17, what fix was suggested for Why does xcb_create_window() ignore the x, y, and border_width parameters?",
+    "expected_events": [
+      "ace-79579481"
+    ],
+    "window": {
+      "start_iso": "2025-04-17T00:00:00+00:00",
+      "end_iso": "2025-04-17T23:59:59+00:00",
+      "label": "date:2025-04-17"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-04-17T14:25:07.970000+00:00"
+  },
+  {
+    "query": "On 2025-02-02, what response was given for confusion around how Python\u2019s descriptor protocol applies to wrapper-descriptor objects?",
+    "expected_events": [
+      "ace-79407071"
+    ],
+    "window": {
+      "start_iso": "2025-02-02T00:00:00+00:00",
+      "end_iso": "2025-02-02T23:59:59+00:00",
+      "label": "date:2025-02-02"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-02-02T18:12:40.760000+00:00"
+  },
+  {
+    "query": "In March 2025, summarize the situation with Authlib Oauth2 Azure ssl error \"The request body must contain the following parameter: 'client_id'\".",
+    "expected_events": [
+      "ace-79506636"
+    ],
+    "window": {
+      "start_iso": "2025-03-01T00:00:00+00:00",
+      "end_iso": "2025-03-31T23:59:59+00:00",
+      "label": "month:2025-03"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-03-13T13:42:52.507000+00:00"
+  },
+  {
+    "query": "In March 2025, how do you assign a variable to an output in Java?",
+    "expected_events": [
+      "ace-79482464"
+    ],
+    "window": {
+      "start_iso": "2025-03-01T00:00:00+00:00",
+      "end_iso": "2025-03-31T23:59:59+00:00",
+      "label": "month:2025-03"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-03-04T01:10:19.187000+00:00"
+  },
+  {
+    "query": "What did we conclude about ModuleNotFoundError: No module named 'python_calamine' in June 2025?",
+    "expected_events": [
+      "ace-79654130"
+    ],
+    "window": {
+      "start_iso": "2025-06-01T00:00:00+00:00",
+      "end_iso": "2025-06-30T23:59:59+00:00",
+      "label": "month:2025-06"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-06-05T09:10:22.730000+00:00"
+  },
+  {
+    "query": "Summarize the advice given about preserving JSON deserialization behavior when wrapping a List<> field inside a utility class around January 2025.",
+    "expected_events": [
+      "ace-79334081"
+    ],
+    "window": {
+      "start_iso": "2025-01-01T00:00:00+00:00",
+      "end_iso": "2025-01-31T23:59:59+00:00",
+      "label": "month:2025-01"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-01-06T19:11:12.257000+00:00"
+  },
+  {
+    "query": "On 2025-03-25, what fix was suggested for How to use C++ libraries installed with Homebrew within Cmake?",
+    "expected_events": [
+      "ace-79535032"
+    ],
+    "window": {
+      "start_iso": "2025-03-25T00:00:00+00:00",
+      "end_iso": "2025-03-25T23:59:59+00:00",
+      "label": "date:2025-03-25"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-03-25T23:01:35.500000+00:00"
+  },
+  {
+    "query": "In April 2025, how was Facebook Ads API: Ad Account Blocked (error [PHONE]) \u2014 \u201cCertification Required\u201d but No Way to Detect via API resolved?",
+    "expected_events": [
+      "ace-79561699"
+    ],
+    "window": {
+      "start_iso": "2025-04-01T00:00:00+00:00",
+      "end_iso": "2025-04-30T23:59:59+00:00",
+      "label": "month:2025-04"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-04-08T09:48:01.833000+00:00"
+  },
+  {
+    "query": "What issue was reported in May 2025 about using a graph convolutional neural network (GCNN) to predict appropriate patterns to solve a problem, and what was the key response?",
+    "expected_events": [
+      "ace-79626389"
+    ],
+    "window": {
+      "start_iso": "2025-05-01T00:00:00+00:00",
+      "end_iso": "2025-05-31T23:59:59+00:00",
+      "label": "month:2025-05"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-05-17T09:40:45.950000+00:00"
+  },
+  {
+    "query": "On 2025-03-24, what fix was suggested for Data from Last 7 Days Not Showing Despite Being Available in Google Sheets?",
+    "expected_events": [
+      "ace-79530253"
+    ],
+    "window": {
+      "start_iso": "2025-03-24T00:00:00+00:00",
+      "end_iso": "2025-03-24T23:59:59+00:00",
+      "label": "date:2025-03-24"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-03-24T05:56:00.083000+00:00"
+  },
+  {
+    "query": "In May 2025, what was the fix for \u201cFailed to call into JavaScript module method HMRClient.setup()\u201d after scanning the QR code?",
+    "expected_events": [
+      "ace-79618448"
+    ],
+    "window": {
+      "start_iso": "2025-05-01T00:00:00+00:00",
+      "end_iso": "2025-05-31T23:59:59+00:00",
+      "label": "month:2025-05"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-05-12T18:20:59.347000+00:00"
+  },
+  {
+    "query": "In January 2025, how was Python 3.9.20, PyTorch 2.5.0 (MacOS): Setting Seed Does Not Produce Deterministic Results resolved?",
+    "expected_events": [
+      "ace-79395350"
+    ],
+    "window": {
+      "start_iso": "2025-01-01T00:00:00+00:00",
+      "end_iso": "2025-01-31T23:59:59+00:00",
+      "label": "month:2025-01"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-01-28T22:42:22.980000+00:00"
+  },
+  {
+    "query": "In January 2025, how do you select all files with a certain postfix (e.g., *.gz) across all subdirectories?",
+    "expected_events": [
+      "ace-79341568"
+    ],
+    "window": {
+      "start_iso": "2025-01-01T00:00:00+00:00",
+      "end_iso": "2025-01-31T23:59:59+00:00",
+      "label": "month:2025-01"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-01-09T06:33:43.540000+00:00"
+  },
+  {
+    "query": "What did we conclude about supporting multiple vacation bookings per employee within a calendar system in January 2025?",
+    "expected_events": [
+      "ace-79385885"
+    ],
+    "window": {
+      "start_iso": "2025-01-01T00:00:00+00:00",
+      "end_iso": "2025-01-31T23:59:59+00:00",
+      "label": "month:2025-01"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-01-24T23:24:30.480000+00:00"
+  },
+  {
+    "query": "Around April 2025, what problem came up about How to make height transition for flatpick?",
+    "expected_events": [
+      "ace-79555460"
+    ],
+    "window": {
+      "start_iso": "2025-04-01T00:00:00+00:00",
+      "end_iso": "2025-04-30T23:59:59+00:00",
+      "label": "month:2025-04"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-04-04T13:31:50.737000+00:00"
+  },
+  {
+    "query": "In January 2025, what was the issue: Pydantic BaseModel object has no attribute `items`?",
+    "expected_events": [
+      "ace-79390804"
+    ],
+    "window": {
+      "start_iso": "2025-01-01T00:00:00+00:00",
+      "end_iso": "2025-01-31T23:59:59+00:00",
+      "label": "month:2025-01"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-01-27T12:36:25.550000+00:00"
+  },
+  {
+    "query": "In March 2025, how was sorting objects by a date stored as a string followed by a secondary field resolved?",
+    "expected_events": [
+      "ace-79485236"
+    ],
+    "window": {
+      "start_iso": "2025-03-01T00:00:00+00:00",
+      "end_iso": "2025-03-31T23:59:59+00:00",
+      "label": "month:2025-03"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-03-05T01:18:12.937000+00:00"
+  },
+  {
+    "query": "In February 2025, how do you get a file list when comparing commits in GitHub (files field empty)?",
+    "expected_events": [
+      "ace-79464688"
+    ],
+    "window": {
+      "start_iso": "2025-02-01T00:00:00+00:00",
+      "end_iso": "2025-02-28T23:59:59+00:00",
+      "label": "month:2025-02"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-02-24T20:08:26.060000+00:00"
+  },
+  {
+    "query": "Around March 2025, what problem came up about How to get Ledger report of full Financial Year in Tally XML request?",
+    "expected_events": [
+      "ace-79546142"
+    ],
+    "window": {
+      "start_iso": "2025-03-01T00:00:00+00:00",
+      "end_iso": "2025-03-31T23:59:59+00:00",
+      "label": "month:2025-03"
+    },
+    "source": "audit",
+    "event_timestamp": "2025-03-31T11:43:03.883000+00:00"
+  },
+  {
+    "query": "In January 2025, How SO_KEEPALIVE works in socket programming I'm a newbie to networks, please guide me for the following. As per my understanding, by default in the OS Level...",
+    "expected_events": [
+      "ace-79396814"
+    ],
+    "window": {
+      "start_iso": "2025-01-01T00:00:00+00:00",
+      "end_iso": "2025-01-31T23:59:59+00:00",
+      "label": "month:2025-01"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-01-29T12:59:38.597000+00:00"
+  },
+  {
+    "query": "On 2025-01-28, Can we set theme for android Overflow menu? How can I increase the rounded corners of the Android overflow menu to match the material design style?",
+    "expected_events": [
+      "ace-79392759"
+    ],
+    "window": {
+      "start_iso": "2025-01-28T00:00:00+00:00",
+      "end_iso": "2025-01-28T23:59:59+00:00",
+      "label": "date:2025-01-28"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-01-28T04:41:40.727000+00:00"
+  },
+  {
+    "query": "In January 2025, Why does my repeater in Wix Code only load the first related video instead of all related videos?",
+    "expected_events": [
+      "ace-79347487"
+    ],
+    "window": {
+      "start_iso": "2025-01-01T00:00:00+00:00",
+      "end_iso": "2025-01-31T23:59:59+00:00",
+      "label": "month:2025-01"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-01-11T03:32:09.190000+00:00"
+  },
+  {
+    "query": "On 2025-01-04, Angular lib with route Using Angular 18, I have a workspace and within it a lib-one. I want to know how I can apply routes within lib-one? Is it possible? Wi...",
+    "expected_events": [
+      "ace-79328239"
+    ],
+    "window": {
+      "start_iso": "2025-01-04T00:00:00+00:00",
+      "end_iso": "2025-01-04T23:59:59+00:00",
+      "label": "date:2025-01-04"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-01-04T04:26:35.070000+00:00"
+  },
+  {
+    "query": "In January 2025, Puppeteer-core works fine locally but fails when deployed to vercel",
+    "expected_events": [
+      "ace-79388053"
+    ],
+    "window": {
+      "start_iso": "2025-01-01T00:00:00+00:00",
+      "end_iso": "2025-01-31T23:59:59+00:00",
+      "label": "month:2025-01"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-01-26T06:13:10.907000+00:00"
+  },
+  {
+    "query": "On 2025-01-24, PowerShell multiline regex is matching on regex101.com AND regexr.com, but not in Powershell code",
+    "expected_events": [
+      "ace-79385377"
+    ],
+    "window": {
+      "start_iso": "2025-01-24T00:00:00+00:00",
+      "end_iso": "2025-01-24T23:59:59+00:00",
+      "label": "date:2025-01-24"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-01-24T19:04:21.877000+00:00"
+  },
+  {
+    "query": "In January 2025, What does hasChanged() result in true and the original and new values are the same in CI4?",
+    "expected_events": [
+      "ace-79322873"
+    ],
+    "window": {
+      "start_iso": "2025-01-01T00:00:00+00:00",
+      "end_iso": "2025-01-31T23:59:59+00:00",
+      "label": "month:2025-01"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-01-02T05:49:42.363000+00:00"
+  },
+  {
+    "query": "On 2025-01-20, Routing in Ionic React: Transition animation not working under specific conditions",
+    "expected_events": [
+      "ace-79372705"
+    ],
+    "window": {
+      "start_iso": "2025-01-20T00:00:00+00:00",
+      "end_iso": "2025-01-20T23:59:59+00:00",
+      "label": "date:2025-01-20"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-01-20T21:33:54.090000+00:00"
+  },
+  {
+    "query": "In February 2025, Trying to start oracle forms from a jnlp but it can't find the frmall.jar file.",
+    "expected_events": [
+      "ace-79449428"
+    ],
+    "window": {
+      "start_iso": "2025-02-01T00:00:00+00:00",
+      "end_iso": "2025-02-28T23:59:59+00:00",
+      "label": "month:2025-02"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-02-18T19:44:47.863000+00:00"
+  },
+  {
+    "query": "On 2025-02-14, What is 'VM overhead' in spark docs?",
+    "expected_events": [
+      "ace-79438214"
+    ],
+    "window": {
+      "start_iso": "2025-02-14T00:00:00+00:00",
+      "end_iso": "2025-02-14T23:59:59+00:00",
+      "label": "date:2025-02-14"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-02-14T02:36:20.550000+00:00"
+  },
+  {
+    "query": "In February 2025, What does it mean to use initialization in an ambient context?",
+    "expected_events": [
+      "ace-79436193"
+    ],
+    "window": {
+      "start_iso": "2025-02-01T00:00:00+00:00",
+      "end_iso": "2025-02-28T23:59:59+00:00",
+      "label": "month:2025-02"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-02-13T12:38:08.277000+00:00"
+  },
+  {
+    "query": "On 2025-02-01, Extraneous line breaks in Saxon XSLT output",
+    "expected_events": [
+      "ace-79405689"
+    ],
+    "window": {
+      "start_iso": "2025-02-01T00:00:00+00:00",
+      "end_iso": "2025-02-01T23:59:59+00:00",
+      "label": "date:2025-02-01"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-02-01T21:13:33.833000+00:00"
+  },
+  {
+    "query": "In February 2025, modulefile set-alias with variables problem Using modules with csh shell",
+    "expected_events": [
+      "ace-79407508"
+    ],
+    "window": {
+      "start_iso": "2025-02-01T00:00:00+00:00",
+      "end_iso": "2025-02-28T23:59:59+00:00",
+      "label": "month:2025-02"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-02-02T23:06:00.203000+00:00"
+  },
+  {
+    "query": "On 2025-02-26, Recieve input from keyboard in SDL3 inside of the main loop? I want to make it so hitting keys changes the displayed image on my window but I don't really kn...",
+    "expected_events": [
+      "ace-79468406"
+    ],
+    "window": {
+      "start_iso": "2025-02-26T00:00:00+00:00",
+      "end_iso": "2025-02-26T23:59:59+00:00",
+      "label": "date:2025-02-26"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-02-26T03:05:42.787000+00:00"
+  },
+  {
+    "query": "In February 2025, How to concatenate GZIP streams in python?",
+    "expected_events": [
+      "ace-79417747"
+    ],
+    "window": {
+      "start_iso": "2025-02-01T00:00:00+00:00",
+      "end_iso": "2025-02-28T23:59:59+00:00",
+      "label": "month:2025-02"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-02-06T11:36:23.333000+00:00"
+  },
+  {
+    "query": "On 2025-02-25, My BentoML service was blocked by a CORS policy I have been stuck with sending a request from a website to BentoML for a day.",
+    "expected_events": [
+      "ace-79467220"
+    ],
+    "window": {
+      "start_iso": "2025-02-25T00:00:00+00:00",
+      "end_iso": "2025-02-25T23:59:59+00:00",
+      "label": "date:2025-02-25"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-02-25T16:22:53.063000+00:00"
+  },
+  {
+    "query": "In March 2025, How to register in DI single options instance as two classes?",
+    "expected_events": [
+      "ace-79509189"
+    ],
+    "window": {
+      "start_iso": "2025-03-01T00:00:00+00:00",
+      "end_iso": "2025-03-31T23:59:59+00:00",
+      "label": "month:2025-03"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-03-14T13:20:42.513000+00:00"
+  },
+  {
+    "query": "On 2025-03-05, Trying to delete overlapping nested lists in Python",
+    "expected_events": [
+      "ace-79487590"
+    ],
+    "window": {
+      "start_iso": "2025-03-05T00:00:00+00:00",
+      "end_iso": "2025-03-05T23:59:59+00:00",
+      "label": "date:2025-03-05"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-03-05T20:16:34.067000+00:00"
+  },
+  {
+    "query": "In March 2025, Workflow for Angular/Django app development I'm working on an app using Django & Angular. I need to build the Angular app and deploy it to be served through ...",
+    "expected_events": [
+      "ace-79505173"
+    ],
+    "window": {
+      "start_iso": "2025-03-01T00:00:00+00:00",
+      "end_iso": "2025-03-31T23:59:59+00:00",
+      "label": "month:2025-03"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-03-13T00:46:56.763000+00:00"
+  },
+  {
+    "query": "On 2025-03-31, GoRouter won't navigate to a new screen and there is no error message.",
+    "expected_events": [
+      "ace-79546788"
+    ],
+    "window": {
+      "start_iso": "2025-03-31T00:00:00+00:00",
+      "end_iso": "2025-03-31T23:59:59+00:00",
+      "label": "date:2025-03-31"
+    },
+    "source": "dataset",
+    "event_timestamp": "2025-03-31T16:38:32.470000+00:00"
+  }
+]
